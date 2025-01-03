@@ -1,4 +1,4 @@
-# LeetCode_JavaScript
+# LeetCode
 
 ## Introduction
 
